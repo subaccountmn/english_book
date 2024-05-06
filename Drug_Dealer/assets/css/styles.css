@@ -18,6 +18,19 @@ body {
     font-size: 2rem;
     line-height: 1.2;
 }
+
+/* Header */
+.header {
+    margin-bottom: 0px;
+}
+.header a {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    max-width: 100vw;
+}
+
 @media (max-width: 600px) {
     body {
         /* font-size: 0.9em; */
